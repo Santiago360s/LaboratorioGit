@@ -1,0 +1,5 @@
+Juan Perez,20,Ingenieria
+Maria Gomez,22,Matematicas
+Carlos Ruiz,19,Fisica
+Laura Torres,21,Quimica
+Andres Silva,23,Sistemas
